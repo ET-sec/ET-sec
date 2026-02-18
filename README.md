@@ -1,32 +1,32 @@
 # Emmanuel Tigoue
 
-**Security Solutions Architect | IAM Engineer | DevSecOps**
+**Security Engineer | CASP+ (SecurityX) | SSCP | CCNA**
 
-I build identity infrastructure and automate security operations. 7 certifications. Dual-degree candidate at Georgia State University. Based in Atlanta.
+I build AI-augmented security platforms on AWS. Zero Trust architecture, SOAR orchestration, Terraform IaC. Based in Atlanta.
 
-## What I Work On
+## What I Build
 
-- **Identity & Access Management** — AWS IAM architecture, Active Directory, SSO/SAML, Zero Trust
-- **Infrastructure as Code** — Terraform, Docker, automated provisioning pipelines
-- **Security Automation** — Python/PowerShell scripting, CloudTrail analysis, compliance tooling
-- **Security Operations** — n8n orchestration, monitoring, incident response workflows
+- **Cloud Security** — AWS infrastructure hardening, GuardDuty, CloudTrail, Security Hub
+- **Zero Trust Architecture** — Cloudflare Tunnels, identity-aware proxies, network segmentation
+- **Security Automation** — SOAR workflows, LLM-driven threat analysis, incident response pipelines
+- **Infrastructure as Code** — Terraform, Docker, automated provisioning with enforced security baselines
 
 ## Certifications
 
-`CASP+ (SecurityX)` `AWS Security – Specialty` `SSCP` `CCNA` `Security+` `Network+` `ISC² CC`
+`CASP+ (SecurityX)` `SSCP` `CCNA` `Security+` `Network+` `ISC2 CC`
 
 ## Current Projects
 
-🔒 **[CoreDirective Automation Engine](https://github.com/ETcodin/cyber-squire1)** — Hardened AWS infrastructure via Terraform (NIST/ISO aligned). Automated identity management, CloudTrail monitoring, Zero Trust access controls.
+**[CoreDirective Automation Engine](https://github.com/ETcodin/cyber-squire1)** — Production security platform on AWS. 17 integrated services, 89% NIST/CIS coverage, Zero Trust access, $0 AI inference cost. Terraform IaC, Docker orchestration, self-hosted LLM.
 
-📋 **[Cyber-Squire OS](https://coredirective1.gumroad.com)** — Professional Notion systems for cybersecurity certification mastery. 10 interconnected databases, auto-calculating analytics, ADHD-friendly design.
+**[Portfolio](https://etcodin.github.io/portfolio/)** — Interactive recruiter site with HUD interface, terminal Easter egg, skill radar chart, and 19 animated features.
 
 ## Education
 
-**Georgia State University** — BBA Computer Information Systems (Cybersecurity) + BBA Business Economics | May 2026
+**Georgia State University** — B.S. Computer Information Systems | GPA: 3.7 | Expected May 2026
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/emmanueltigoue)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00FF41?style=flat&logo=github&logoColor=black)](https://etcodin.github.io/portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-tigoue-672378307)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:emmanueltigoue@gmail.com)
-[![Gumroad](https://img.shields.io/badge/Gumroad-FF90E8?style=flat&logo=gumroad&logoColor=black)](https://coredirective1.gumroad.com)
