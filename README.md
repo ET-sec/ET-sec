@@ -1,32 +1,35 @@
 # Emmanuel Tigoue
 
-**Security Engineer | CASP+ (SecurityX) | SSCP | CCNA**
+**AI Security Engineer | SecurityX (CASP+) | SSCP | CCNA | DoD 8140 IAT III / IAM II**
 
-I build AI-augmented security platforms on AWS. Zero Trust architecture, SOAR orchestration, Terraform IaC. Based in Atlanta.
+I secure AI agent infrastructure and production cloud platforms. Zero Trust architecture, detection engineering, SOAR automation, Terraform IaC, GRC documentation. Based in Atlanta.
 
 ## What I Build
 
-- **Cloud Security** — AWS infrastructure hardening, GuardDuty, CloudTrail, Security Hub
-- **Zero Trust Architecture** — Cloudflare Tunnels, identity-aware proxies, network segmentation
-- **Security Automation** — SOAR workflows, LLM-driven threat analysis, incident response pipelines
-- **Infrastructure as Code** — Terraform, Docker, automated provisioning with enforced security baselines
+- **AI Security** — LLM red teaming, prompt injection defense, OWASP Top 10 for LLM, MITRE ATLAS threat modeling
+- **Zero Trust Architecture** — Cloudflare Tunnels with mTLS, Teleport PAM with JIT access, Keycloak SSO/RBAC
+- **Detection Engineering** — Falco eBPF runtime detection, Datadog observability, SOAR automation with n8n
+- **DevSecOps** — Trivy, Semgrep, Gitleaks, OPA/Rego policy gates, Cosign image signing, SBOM generation
+- **Infrastructure as Code** — 16 Terraform files, 30+ resources on DigitalOcean and Cloudflare, 8 OPA policies
+- **GRC** — 31 documents: SSP with NIST 800-53 mapping, POA&M, 10 policies, 5 IR playbooks, risk assessment
 
 ## Certifications
 
-`CASP+ (SecurityX)` `SSCP` `CCNA` `Security+` `Network+` `ISC2 CC`
+`SecurityX (CASP+)` `DoD 8140 IAT III / IAM II` `SSCP` `CCNA` `Security+` `Network+`
 
 ## Current Projects
 
-**[CoreDirective Automation Engine](https://github.com/ETcodin/cyber-squire1)** — Production security platform on AWS. 17 integrated services, 89% NIST/CIS coverage, Zero Trust access, $0 AI inference cost. Terraform IaC, Docker orchestration, self-hosted LLM.
+**[CoreDirective Security Platform](https://github.com/ET-sec/cyber-squire1)** — Production AI security infrastructure on DigitalOcean. 14 containers including OpenClaw AI gateway, Falco eBPF detection, Teleport PAM, HashiCorp Vault, Keycloak, Cloudflare Zero Trust tunnels. Full CI/CD with Trivy, Semgrep, Gitleaks, OPA gates, Cosign signing. 31 GRC documents with NIST 800-53 control mapping.
 
-**[Portfolio](https://etcodin.github.io/portfolio/)** — Interactive recruiter site with HUD interface, terminal Easter egg, skill radar chart, and 19 animated features.
+**[Portfolio](https://et-sec.github.io/portfolio/)** — Interactive recruiter site with HUD interface, terminal Easter egg, skill radar chart, and animated features.
 
 ## Education
 
-**Georgia State University** — B.S. Computer Information Systems | GPA: 3.7 | Expected May 2026
+**Georgia State University, J. Mack Robinson College of Business**
+BBA in Computer Information Systems (Cybersecurity) | BBA in Business Economics | GPA: 3.7 | Expected July 2026
 
 ## Connect
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-00FF41?style=flat&logo=github&logoColor=black)](https://etcodin.github.io/portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00FF41?style=flat&logo=github&logoColor=black)](https://et-sec.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-tigoue-672378307)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:emmanueltigoue@gmail.com)
