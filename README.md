@@ -1,6 +1,6 @@
 # Emmanuel Tigoue
 
-**AI Security Engineer | SecurityX (CASP+) | SSCP | CCNA | DoD 8140 IAT III / IAM II**
+**AI Security Engineer | CISSP | SecurityX (CASP+) | CCNA | DoD 8140 IAT III / IAM II**
 
 I secure AI agent infrastructure and production cloud platforms. Zero Trust architecture, detection engineering, SOAR automation, Terraform IaC, GRC documentation. Based in Atlanta.
 
@@ -15,7 +15,7 @@ I secure AI agent infrastructure and production cloud platforms. Zero Trust arch
 
 ## Certifications
 
-`SecurityX (CASP+)` `DoD 8140 IAT III / IAM II` `SSCP` `CCNA` `Security+` `Network+`
+`ISC² CISSP` `SecurityX (CASP+)` `DoD 8140 IAT III / IAM II` `ISC² SSCP` `CCNA` `Security+` `Network+` `ISC² CC`
 
 ## Current Projects
 
