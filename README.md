@@ -31,5 +31,5 @@ BBA in Computer Information Systems (Cybersecurity) | BBA in Business Economics 
 ## Connect
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-00FF41?style=flat&logo=github&logoColor=black)](https://et-sec.github.io/portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-tigoue-672378307)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-tigoue)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:emmanueltigoue@gmail.com)
