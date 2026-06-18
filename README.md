@@ -1,6 +1,6 @@
 # Emmanuel Tigoue
 
-**AI Security Engineer | CISSP | SecurityX (CASP+) | CCNA | DoD 8140 IAT III / IAM II**
+**AI Security Engineer | CISSP | SecurityX (CASP+) | CCNA | Security+**
 
 I secure AI agent infrastructure and production cloud platforms. Zero Trust architecture, detection engineering, SOAR automation, Terraform IaC, GRC documentation. Based in Atlanta.
 
@@ -11,7 +11,7 @@ I secure AI agent infrastructure and production cloud platforms. Zero Trust arch
 - **Detection Engineering** — Falco eBPF runtime detection, Datadog observability, SOAR automation with n8n
 - **DevSecOps** — Trivy, Semgrep, Gitleaks, OPA/Rego policy gates, Cosign image signing, SBOM generation
 - **Infrastructure as Code** — 16 Terraform files, 30+ resources on DigitalOcean and Cloudflare, 8 OPA policies
-- **GRC** — 31 documents: SSP with NIST 800-53 mapping, POA&M, 10 policies, 5 IR playbooks, risk assessment
+- **GRC** — 58 documents: SSP with NIST 800-53 mapping, POA&M, 10 policies, 5 IR playbooks, AI security artifacts (Squire model card, threat model, guardrails config), HIPAA + SOC 2 + ISO 27001 crosswalks
 
 ## Certifications
 
@@ -19,7 +19,7 @@ I secure AI agent infrastructure and production cloud platforms. Zero Trust arch
 
 ## Current Projects
 
-**[CoreDirective Security Platform](https://github.com/ET-sec/cyber-squire1)** — Production AI security infrastructure on DigitalOcean. 14 containers including OpenClaw AI gateway, Falco eBPF detection, Teleport PAM, HashiCorp Vault, Keycloak, Cloudflare Zero Trust tunnels. Full CI/CD with Trivy, Semgrep, Gitleaks, OPA gates, Cosign signing. 31 GRC documents with NIST 800-53 control mapping.
+**[CoreDirective Security Platform](https://github.com/ET-sec/cyber-squire1)** — Production AI security infrastructure on DigitalOcean. 20 containers including OpenClaw AI gateway, NeMo Guardrails, Langfuse LLM observability, Squire custom AI agent, Falco eBPF detection, Teleport PAM, HashiCorp Vault, Keycloak SSO with tiered TTL, Cloudflare Zero Trust tunnels. Full CI/CD with Trivy, Semgrep, Gitleaks, OPA gates, Cosign signing. 58 GRC documents with NIST 800-53 control mapping.
 
 **[Portfolio](https://et-sec.github.io/portfolio/)** — Interactive recruiter site with HUD interface, terminal Easter egg, skill radar chart, and animated features.
 
