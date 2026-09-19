@@ -31,8 +31,8 @@ I secure AI agent infrastructure and production cloud platforms: Zero Trust arch
 
 ## Education
 
-**Georgia State University, Andrew Young School of Policy Studies**
-B.A. in Economics, GPA 3.7
+**Georgia State University, Andrew Young School of Policy Studies**  
+B.A. in Economics  
 A.S. in Business Administration, Dean's List
 
 ## Connect
