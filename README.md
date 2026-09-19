@@ -25,7 +25,7 @@ I secure AI agent infrastructure and production cloud platforms: Zero Trust arch
 
 ## Current Projects
 
-**[AI Security Platform](https://github.com/ET-sec/cyber-squire1)**: multi-cloud security engineering reference running on Oracle Cloud behind Cloudflare Zero Trust. HashiCorp Vault sealed by a cloud KMS, Keycloak SSO, Teleport privileged access, Falco runtime detection, Vector log pipeline, Datadog monitoring, n8n SOAR, local inference on Ollama and Whisper. Terraform with remote locked state, OIDC-federated CI with no stored cloud keys, nightly drift detection, retention-locked backups with timed restore tests. Merge gates: Trivy, Semgrep, Gitleaks, OPA, Cosign, SBOM. 57 GRC documents mapped to NIST 800-53.
+**[Cyber Squire](https://github.com/ET-sec/cyber-squire1)**: AI security platform. Multi-cloud security engineering reference running on Oracle Cloud behind Cloudflare Zero Trust. HashiCorp Vault sealed by a cloud KMS, Keycloak SSO, Teleport privileged access, Falco runtime detection, Vector log pipeline, Datadog monitoring, n8n SOAR, local inference on Ollama and Whisper. Terraform with remote locked state, OIDC-federated CI with no stored cloud keys, nightly drift detection, retention-locked backups with timed restore tests. Merge gates: Trivy, Semgrep, Gitleaks, OPA, Cosign, SBOM. 57 GRC documents mapped to NIST 800-53.
 
 **[Portfolio](https://et-sec.github.io/portfolio/)**: seven clickable architecture views of the platform: topology and flows, multi-cloud planes, threat model, identity and access, AI trust boundary, control layers, authorization boundary. Every box opens the controls behind it and the file that proves it.
 
